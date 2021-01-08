@@ -131,4 +131,4 @@
     * 社会主义是走向共产主义的必由之路
     * 坚定共产主义远大理想信念，积极投身中国特色社会主义事业
 
-[马克思是关于无产阶级和人类解放的科学]:http://github.com/Memorykill/money/blob/main/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89/%E9%A9%AC%E5%85%8B%E6%80%9D%E6%98%AF%E5%85%B3%E4%BA%8E%E6%97%A0%E4%BA%A7%E9%98%B6%E7%BA%A7%E5%92%8C%E4%BA%BA%E7%B1%BB%E8%A7%A3%E6%94%BE%E7%9A%84%E7%A7%91%E5%AD%A6.md"马克思是关于无产阶级和人类解放的科学"
+[马克思是关于无产阶级和人类解放的科学]:http://github.com/Memorykill/money/blob/main/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89/%E9%A9%AC%E5%85%8B%E6%80%9D%E6%98%AF%E5%85%B3%E4%BA%8E%E6%97%A0%E4%BA%A7%E9%98%B6%E7%BA%A7%E5%92%8C%E4%BA%BA%E7%B1%BB%E8%A7%A3%E6%94%BE%E7%9A%84%E7%A7%91%E5%AD%A6.md "马克思是关于无产阶级和人类解放的科学"
